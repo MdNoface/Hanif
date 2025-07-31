@@ -9,7 +9,7 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "hola",
+  "BOTNAME": "me",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
@@ -17,7 +17,7 @@
     "100064396950869"
   ],
   "ADMINBOT": [
-    "00000959749712",
+    "100064396950869",
     ""
   ],
   "OWNER": ["100000959749712"], 
