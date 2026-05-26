@@ -9,12 +9,12 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "me",
+  "BOTNAME": "Hala",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
-    "",
-    "61568369637659"
+    "100064396950869",
+    "100064396950869"
   ],
   "ADMINBOT": [
     "615683696376599",
